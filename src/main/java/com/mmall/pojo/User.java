@@ -1,4 +1,4 @@
-package com.ttmall.pojo;
+package com.mmall.pojo;
 
 import java.util.Date;
 

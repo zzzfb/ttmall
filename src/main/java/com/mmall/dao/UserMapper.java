@@ -1,6 +1,6 @@
-package com.ttmall.dao;
+package com.mmall.dao;
 
-import com.ttmall.pojo.User;
+import com.mmall.pojo.User;
 import org.apache.ibatis.annotations.Param;
 
 public interface UserMapper {

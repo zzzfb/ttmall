@@ -1,7 +1,7 @@
-package com.ttmall.service;
+package com.mmall.service;
 
-import com.ttmall.common.ServerResponse;
-import com.ttmall.pojo.User;
+import com.mmall.common.ServerResponse;
+import com.mmall.pojo.User;
 
 /**
  * Created by zfb

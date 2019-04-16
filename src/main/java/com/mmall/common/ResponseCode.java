@@ -1,4 +1,4 @@
-package com.ttmall.common;
+package com.mmall.common;
 
 public enum ResponseCode {
     SUCCESS(0,"SUCCESS"),

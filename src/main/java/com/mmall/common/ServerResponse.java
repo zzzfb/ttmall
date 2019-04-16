@@ -1,10 +1,9 @@
-package com.ttmall.common;
+package com.mmall.common;
 
 import org.codehaus.jackson.annotate.JsonIgnore;
 import org.codehaus.jackson.map.annotate.JsonSerialize;
 
 import java.io.Serializable;
-import java.util.TimerTask;
 
 /**
  * Created by zfb

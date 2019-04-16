@@ -1,4 +1,4 @@
-package com.ttmall.common;
+package com.mmall.common;
 
 /**
  * Created by zfb

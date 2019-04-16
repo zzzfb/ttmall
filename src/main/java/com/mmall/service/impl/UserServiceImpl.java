@@ -1,9 +1,9 @@
-package com.ttmall.service.impl;
+package com.mmall.service.impl;
 
-import com.ttmall.common.ServerResponse;
-import com.ttmall.dao.UserMapper;
-import com.ttmall.pojo.User;
-import com.ttmall.service.IUserService;
+import com.mmall.common.ServerResponse;
+import com.mmall.dao.UserMapper;
+import com.mmall.pojo.User;
+import com.mmall.service.IUserService;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
